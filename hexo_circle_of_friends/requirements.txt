@@ -3,7 +3,7 @@ arrow==1.2.1
 asgiref==3.4.1
 attrs==21.2.0
 Automat==20.2.0
-certifi==2021.10.8
+certifi==2023.7.22
 cffi==1.15.0
 charset-normalizer==2.0.8
 click==8.0.3
